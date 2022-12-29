@@ -1,6 +1,5 @@
 import Header from "./components/Header";
 import Form from "./components/Form";
-import Todo from "./components/Todo";
 import TodoList from "./components/TodoList";
 import { useState } from "react";
 
